@@ -1,6 +1,7 @@
 {
   "puzzles": [
     {
+      "category": "general",
       "words": [
         {
           "x": 0,
@@ -8,8 +9,7 @@
           "word_number": 1,
           "word": "QIELL",
           "direction": "horizontal",
-          "clues": ["Është mbi ne", "Ka re dhe diell", "Hapësira blu mbi tokë"],
-          "category": "general"
+          "clues": ["Është mbi ne", "Ka re dhe diell", "Hapësira blu mbi tokë"]
         },
         {
           "x": 1,
@@ -17,8 +17,7 @@
           "word_number": 2,
           "word": "FËMIJË",
           "direction": "horizontal",
-          "clues": ["I vogël në moshë", "Shkon në shkollë", "Bir ose bijë"],
-          "category": "general"
+          "clues": ["I vogël në moshë", "Shkon në shkollë", "Bir ose bijë"]
         },
         {
           "x": 2,
@@ -26,8 +25,7 @@
           "word_number": 3,
           "word": "SHPRESË",
           "direction": "vertical",
-          "clues": ["Ndjenjë për të ardhmen", "Besim se diçka do ndodhë mirë", "E mban njeriun gjallë shpirtërisht"],
-          "category": "general"
+          "clues": ["Ndjenjë për të ardhmen", "Besim se diçka do ndodhë mirë", "E mban njeriun gjallë shpirtërisht"]
         },
         {
           "x": 2,
@@ -35,8 +33,7 @@
           "word_number": 4,
           "word": "SHTËPI",
           "direction": "horizontal",
-          "clues": ["Vendi ku jeton", "Ka dhoma dhe çati", "Banesa"],
-          "category": "general"
+          "clues": ["Vendi ku jeton", "Ka dhoma dhe çati", "Banesa"]
         },
         {
           "x": 2,
@@ -44,8 +41,7 @@
           "word_number": 5,
           "word": "PUNË",
           "direction": "horizontal",
-          "clues": ["Aktivitet për të fituar para", "Detyrë që duhet kryer", "E bën çdo ditë"],
-          "category": "general"
+          "clues": ["Aktivitet për të fituar para", "Detyrë që duhet kryer", "E bën çdo ditë"]
         },
         {
           "x": 3,
@@ -53,8 +49,7 @@
           "word_number": 6,
           "word": "MAL",
           "direction": "vertical",
-          "clues": ["I lartë dhe shkëmbor", "Ka maja dhe lugina", "Gjendet në natyrë"],
-          "category": "general"
+          "clues": ["I lartë dhe shkëmbor", "Ka maja dhe lugina", "Gjendet në natyrë"]
         },
         {
           "x": 4,
@@ -62,8 +57,7 @@
           "word_number": 7,
           "word": "DRITË",
           "direction": "horizontal",
-          "clues": ["Ndriçon errësirën", "Vjen nga dielli ose llamba", "E kundërta e errësirës"],
-          "category": "general"
+          "clues": ["Ndriçon errësirën", "Vjen nga dielli ose llamba", "E kundërta e errësirës"]
         },
         {
           "x": 6,
@@ -71,8 +65,7 @@
           "word_number": 8,
           "word": "LIBËR",
           "direction": "vertical",
-          "clues": ["Ka faqe dhe shkronja", "Lexohet", "Burim dijesh"],
-          "category": "general"
+          "clues": ["Ka faqe dhe shkronja", "Lexohet", "Burim dijesh"]
         },
         {
           "x": 8,
@@ -80,8 +73,7 @@
           "word_number": 9,
           "word": "ZEMËR",
           "direction": "vertical",
-          "clues": ["Organ në trup", "Rreh për të jetuar", "Lidhet me ndjenjat"],
-          "category": "general"
+          "clues": ["Organ në trup", "Rreh për të jetuar", "Lidhet me ndjenjat"]
         }
       ]
     }
