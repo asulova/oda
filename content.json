@@ -76,6 +76,203 @@
           "clues": ["Organ në trup", "Rreh për të jetuar", "Lidhet me ndjenjat"]
         }
       ]
+    },
+    {
+      "category": "general",
+      "words": [
+        {
+          "x": 0,
+          "y": 1,
+          "word_number": 1,
+          "word": "DORA",
+          "direction": "horizontal",
+          "clues": [
+            "Pjesë e trupit",
+            "Ka pesë gishta",
+            "Përdoret për të kapur"
+          ]
+        },
+        {
+          "x": 0,
+          "y": 3,
+          "word_number": 2,
+          "word": "ZË",
+          "direction": "horizontal",
+          "clues": [
+            "Dëgjohet kur flet",
+            "Mund të jetë i lartë ose i ulët",
+            "Përdoret për komunikim"
+          ]
+        },
+        {
+          "x": 0,
+          "y": 5,
+          "word_number": 3,
+          "word": "SHPIRT",
+          "direction": "vertical",
+          "clues": [
+            "Lidhet me botën e brendshme",
+            "Nuk mund të preket",
+            "Përfaqëson anën shpirtërore të njeriut"
+          ]
+        },
+        {
+          "x": 0,
+          "y": 5,
+          "word_number": 4,
+          "word": "SY",
+          "direction": "horizontal",
+          "clues": [
+            "Organ i shikimit",
+            "Ke dy të tillë",
+            "Sheh botën"
+          ]
+        },
+        {
+          "x": 0,
+          "y": 10,
+          "word_number": 5,
+          "word": "TELEFONATË",
+          "direction": "horizontal",
+          "clues": [
+            "Bëhet me telefon",
+            "Shërben për të folur nga larg",
+            "Mund të jetë hyrëse ose dalëse"
+          ]
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "word_number": 6,
+          "word": "KOHË",
+          "direction": "vertical",
+          "clues": [
+            "Matet me orë",
+            "Nuk ndalet kurrë",
+            "Kalon vazhdimisht"
+          ]
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "word_number": 7,
+          "word": "FËMIJËRI",
+          "direction": "horizontal",
+          "clues": [
+            "Periudha e parë e jetës",
+            "Plot lojëra dhe rritje",
+            "Vjen para rinisë"
+          ]
+        },
+        {
+          "x": 2,
+          "y": 6,
+          "word_number": 8,
+          "word": "QETËSI",
+          "direction": "horizontal",
+          "clues": [
+            "Mungesë zhurme",
+            "Sjell paqe",
+            "Gjendet në vende të qeta"
+          ]
+        },
+        {
+          "x": 2,
+          "y": 8,
+          "word_number": 9,
+          "word": "SHKRIMTAR",
+          "direction": "horizontal",
+          "clues": [
+            "Shkruan libra",
+            "Krijon romane ose tregime",
+            "Merret me letërsi"
+          ]
+        },
+        {
+          "x": 3,
+          "y": 0,
+          "word_number": 10,
+          "word": "MARRËVESHJE",
+          "direction": "vertical",
+          "clues": [
+            "Arrihet mes palëve",
+            "Bazohet në dakordësi",
+            "Mund të nënshkruhet"
+          ]
+        },
+        {
+          "x": 3,
+          "y": 0,
+          "word_number": 11,
+          "word": "MIQËSI",
+          "direction": "horizontal",
+          "clues": [
+            "Lidhje mes miqve",
+            "Bazohet në besim",
+            "Zakonisht zgjat shumë"
+          ]
+        },
+        {
+          "x": 3,
+          "y": 2,
+          "word_number": 12,
+          "word": "RRUGËTIM",
+          "direction": "horizontal",
+          "clues": [
+            "Udhëtim i gjatë",
+            "Ka një destinacion",
+            "Bëhet me mjete ose në këmbë"
+          ]
+        },
+        {
+          "x": 6,
+          "y": 6,
+          "word_number": 13,
+          "word": "SHI",
+          "direction": "vertical",
+          "clues": [
+            "Bie nga retë",
+            "Lagon tokën",
+            "Është reshje"
+          ]
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "word_number": 14,
+          "word": "RE",
+          "direction": "vertical",
+          "clues": [
+            "Shihet në qiell",
+            "Mund të sjellë shi",
+            "Është e bardhë ose gri"
+          ]
+        },
+        {
+          "x": 9,
+          "y": 6,
+          "word_number": 15,
+          "word": "DJALË",
+          "direction": "vertical",
+          "clues": [
+            "Fëmijë mashkull",
+            "Bir",
+            "Vëlla i motrës"
+          ]
+        },
+        {
+          "x": 10,
+          "y": 0,
+          "word_number": 16,
+          "word": "BIMË",
+          "direction": "vertical",
+          "clues": [
+            "Rritet në tokë",
+            "Ka gjethe ose lule",
+            "Ka nevojë për ujë dhe dritë"
+          ]
+        }
+      ]
     }
   ]
-}
+} 
