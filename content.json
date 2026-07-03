@@ -1,7 +1,9 @@
 {
   "puzzles": [
     {
+      "puzzle_id": "general_0001",
       "category": "general",
+      "order_index": 1,
       "words": [
         {
           "x": 0,
@@ -78,7 +80,9 @@
       ]
     },
     {
+      "puzzle_id": "general_0002",
       "category": "general",
+      "order_index": 2,
       "words": [
         {
           "x": 0,
