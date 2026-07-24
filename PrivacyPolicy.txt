@@ -1,0 +1,73 @@
+# Privacy Policy
+
+**Effective Date:** July 24, 2026
+
+## Privacy Policy for ODA
+
+ODA ("the App") is committed to protecting your privacy. This Privacy Policy explains what information is collected, how it is used, and your choices regarding your data.
+
+## Information We Collect
+
+The App does not require you to create an account or provide personal information such as your name, email address, or phone number.
+
+The App may store the following information locally on your device:
+
+* Crossword progress
+* Coin balance
+* App settings and preferences
+
+This information is stored only on your device and is not transmitted to our servers.
+
+## Advertising
+
+The App uses Google AdMob to display rewarded advertisements.
+
+Google and its partners may collect certain information, including:
+
+* Device identifiers
+* IP address
+* Approximate location
+* Advertising identifiers
+* Information about interactions with advertisements
+
+This information is collected by Google in accordance with Google's Privacy Policy.
+
+Depending on your location, you may be asked for consent before personalized advertisements are shown. You can change your advertising preferences at any time through the app's Privacy Settings (if available).
+
+## Third-Party Services
+
+The App uses the following third-party service:
+
+* Google AdMob (Advertising)
+
+These services may collect information according to their own privacy policies.
+
+## Children's Privacy
+
+The App is not directed toward children under the age of 13. We do not knowingly collect personal information from children.
+
+## Data Security
+
+Because user progress is stored locally on the device, no personal data is stored on our servers. We take reasonable measures to ensure the security of the application.
+
+## Your Rights
+
+Depending on your country or region, you may have rights regarding your personal data, including the right to:
+
+* Request access to your data
+* Request deletion of your data
+* Withdraw advertising consent (where applicable)
+
+Advertising consent can be changed through the app or your device settings.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected by updating the Effective Date above.
+
+## Contact
+
+If you have any questions about this Privacy Policy, you may contact:
+
+**Developer:** Aldi Sulova
+
+**Email:** [aldi.sulova@gmail.com](mailto:aldi.sulova@gmail.com)
