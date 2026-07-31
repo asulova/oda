@@ -277,6 +277,205 @@
           ]
         }
       ]
+    },
+    {
+      "puzzle_id": "general_0003",
+      "category": "general",
+      "order_index": 3,
+      "words": [
+        {
+          "x": 0,
+          "y": 8,
+          "word_number": 1,
+          "word": "OGUR",
+          "direction": "vertical",
+          "clues": [
+            "Sjell fat të mirë",
+            "Shenjë e mbarësisë",
+            "Diçka që besohet se sjell fat"
+          ]
+        },
+        {
+          "x": 0,
+          "y": 8,
+          "word_number": 2,
+          "word": "ODA",
+          "direction": "horizontal",
+          "clues": [
+            "Dhoma tradicionale shqiptare e miqve",
+            "Hapësirë pritjeje në kullat shqiptare",
+            "Vend ku mblidheshin burrat e shtëpisë"
+          ]
+        },
+        {
+          "x": 1,
+          "y": 0,
+          "word_number": 3,
+          "word": "KËMBANË",
+          "direction": "vertical",
+          "clues": [
+            "Vegël që bie dhe jep tingull",
+            "Gjendet shpesh në qafën e bagëtive",
+            "Lajmëron me zë kur lëviz"
+          ]
+        },
+        {
+          "x": 1,
+          "y": 2,
+          "word_number": 4,
+          "word": "MARAZ",
+          "direction": "horizontal",
+          "clues": [
+            "Hidhërim i mbajtur në zemër",
+            "Ndjenjë pakënaqësie ndaj dikujt",
+            "Inat i heshtur"
+          ]
+        },
+        {
+          "x": 2,
+          "y": 8,
+          "word_number": 5,
+          "word": "AFSH",
+          "direction": "vertical",
+          "clues": [
+            "Frymë e ngrohtë që del nga trupi",
+            "Nxjerrje fryme pas lodhjes",
+            "Avull i lehtë nga nxehtësia"
+          ]
+        },
+        {
+          "x": 2,
+          "y": 9,
+          "word_number": 6,
+          "word": "FUSTANELLË",
+          "direction": "horizontal",
+          "clues": [
+            "Veshje tradicionale e burrave shqiptarë",
+            "Pjesë e kostumit popullor",
+            "Veshje e bardhë e valltarëve shqiptarë"
+          ]
+        },
+        {
+          "x": 3,
+          "y": 0,
+          "word_number": 7,
+          "word": "KORABI",
+          "direction": "vertical",
+          "clues": [
+            "Mali më i lartë në Shqipëri",
+            "Maja e njohur në kufirin shqiptaro-maqedonas",
+            "Bjeshkë e lartë me borë"
+          ]
+        },
+        {
+          "x": 3,
+          "y": 4,
+          "word_number": 8,
+          "word": "BAJRAKTAR",
+          "direction": "horizontal",
+          "clues": [
+            "Ai që mbante flamurin e fisit",
+            "Udhëheqës i luftëtarëve me flamur",
+            "Titull tradicional shqiptar"
+          ]
+        },
+        {
+          "x": 3,
+          "y": 7,
+          "word_number": 9,
+          "word": "TRËNDAFIL",
+          "direction": "horizontal",
+          "clues": [
+            "Lule me aromë të këndshme",
+            "Simbol i dashurisë dhe bukurisë",
+            "Lulëzon në kopshte"
+          ]
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "word_number": 10,
+          "word": "PRUSH",
+          "direction": "vertical",
+          "clues": [
+            "Thëngjill i ndezur pa flakë",
+            "Mbetje e kuqe e zjarrit",
+            "Nxehtësi që ruhet në vatër"
+          ]
+        },
+        {
+          "x": 5,
+          "y": 0,
+          "word_number": 11,
+          "word": "HALILI",
+          "direction": "horizontal",
+          "clues": [
+            "Emër i njohur në epikën shqiptare",
+            "Kreshnik i ciklit të Mujit dhe Halilit",
+            "Vëllai i Mujit në këngët kreshnike"
+          ]
+        },
+        {
+          "x": 6,
+          "y": 11,
+          "word_number": 12,
+          "word": "KANDIL",
+          "direction": "horizontal",
+          "clues": [
+            "Llambë e vjetër me vaj",
+            "Ndriçues që përdorej dikur në shtëpi",
+            "Mjet tradicional për dritë"
+          ]
+        },
+        {
+          "x": 7,
+          "y": 2,
+          "word_number": 13,
+          "word": "XHAMADAN",
+          "direction": "vertical",
+          "clues": [
+            "Veshje tradicionale shqiptare",
+            "Pjesë e kostumit popullor të burrave",
+            "Jelek i zbukuruar me fije ari"
+          ]
+        },
+        {
+          "x": 9,
+          "y": 0,
+          "word_number": 14,
+          "word": "LAHUTË",
+          "direction": "vertical",
+          "clues": [
+            "Instrument tradicional me një tel",
+            "Shoqëron këngët e kreshnikëve",
+            "Vegël muzikore e veriut shqiptar"
+          ]
+        },
+        {
+          "x": 9,
+          "y": 7,
+          "word_number": 15,
+          "word": "FLLAD",
+          "direction": "vertical",
+          "clues": [
+            "Erë e lehtë dhe e freskët",
+            "Frymëmarrje e butë e ajrit",
+            "Ndjesi freskie në ditët e nxehta"
+          ]
+        },
+        {
+          "x": 11,
+          "y": 2,
+          "word_number": 16,
+          "word": "PËRRALLË",
+          "direction": "vertical",
+          "clues": [
+            "Tregim me ngjarje të trilluara",
+            "Rrëfim popullor për fëmijë",
+            "Histori me magji dhe personazhe fantastike"
+          ]
+        }
+      ]
     }
   ]
 } 
