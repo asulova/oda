@@ -451,7 +451,10 @@
                     "y":10,
                     "word_number":11,
                     "word":"MËLYSH",
-                    "direction":"horizontal"
+                    "direction":"horizontal",
+                    "clues": [
+                        "Peshk që gjendet në ujërat e lumit Shkumbin, me trup të gjatë e turi petashuq."
+                    ]
                 },
                 {
                     "x":7,
