@@ -136,7 +136,11 @@
                     "y":5,
                     "word_number":12,
                     "word":"KËNETË",
-                    "direction":"vertical"
+                    "direction":"vertical",
+                    "clues": [
+                        "Moçal me ujë të ndenjur dhe bimësi të dendur.",
+                        "Tokë e lagësht e mbuluar me ujë, kallama e barishte."
+                    ]
                 },
                 {
                     "x":8,
