@@ -397,7 +397,11 @@
                     "y":4,
                     "word_number":6,
                     "word":"RRAMADUC",
-                    "direction":"vertical"
+                    "direction":"vertical",
+                    "clues": [
+                        "Që është i shkurtër, i rrumbullakët dhe i ngjeshur nga trupi.",
+                        "Topolak."
+                    ]
                 },
                 {
                     "x":2,
