@@ -579,7 +579,11 @@
                     "y":1,
                     "word_number":8,
                     "word":"BYRO",
-                    "direction":"vertical"
+                    "direction":"vertical",
+                    "clues": [
+                        "Organi i lartë ekzekutiv dhe udhëheqës i Partisë Komuniste.",
+                        "Grupi i ngushtë i udhëheqësve komunistë që kontrollonin pushtetin në Shqipëri."
+                    ]
                 },
                 {
                     "x":7,
