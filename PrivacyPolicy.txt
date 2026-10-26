@@ -1,64 +1,91 @@
 # Privacy Policy
 
-**Effective Date:** July 24, 2026
+**Effective Date:** October 26, 2026
 
-## Privacy Policy for ODA
+## Privacy Policy for Fjalëkryq Shqip
 
-ODA ("the App") is committed to protecting your privacy. This Privacy Policy explains what information is collected, how it is used, and your choices regarding your data.
+Fjalëkryq Shqip ("the App") is committed to protecting your privacy. This Privacy Policy explains what information the App and its third-party services may collect, how that information is used, and the choices available to you.
 
 ## Information We Collect
 
-The App does not require you to create an account or provide personal information such as your name, email address, or phone number.
+The App does not require you to create an account or provide personal information such as your name, email address, or phone number to play crossword puzzles.
 
-The App may store the following information locally on your device:
+The App stores certain information locally on your device, including:
 
-* Crossword progress
-* Coin balance
-* App settings and preferences
+- Crossword progress
+- Star balance
+- App settings and preferences
 
-This information is stored only on your device and is not transmitted to our servers.
+This locally stored information is not transmitted to our own servers.
 
-## Advertising
+## Advertising and Consent
 
-The App uses Google AdMob to display rewarded advertisements.
+The App uses **Google AdMob** to display rewarded advertisements. It also uses Google's User Messaging Platform (UMP) to manage advertising consent where required.
 
-Google and its partners may collect certain information, including:
+Depending on your device, consent choices, region, and advertising configuration, Google and its advertising partners may collect or process information such as:
 
-* Device identifiers
-* IP address
-* Approximate location
-* Advertising identifiers
-* Information about interactions with advertisements
+- Device identifiers and advertising IDs
+- IP address and approximate location derived from it
+- Information about interactions with ads and the App
+- Advertising performance, diagnostic, and fraud-prevention information
 
-This information is collected by Google in accordance with Google's Privacy Policy.
+This information may be used to deliver and measure advertisements, prevent fraud, maintain security, and support advertising services. Depending on your consent choices and applicable requirements, advertisements may be personalized or non-personalized.
 
-Depending on your location, you may be asked for consent before personalized advertisements are shown. You can change your advertising preferences at any time through the app's Privacy Settings (if available).
+You can manage your advertising consent through the App's available privacy settings, where provided. You may also be able to reset or limit advertising identifiers through your device settings. Refusing personalized advertising does not necessarily prevent all data processing required to serve advertisements or prevent fraud.
+
+For more information, review [Google's Privacy Policy](https://policies.google.com/privacy) and [How Google uses information from sites or apps that use its services](https://policies.google.com/technologies/partner-sites).
+
+## In-App Purchases
+
+The App offers optional purchases of Stars, which can be used within the App.
+
+Purchases are processed through Google Play Billing and **RevenueCat**, a third-party service used to manage and validate in-app purchases. These services may process information such as:
+
+- Purchase and transaction history
+- Product identifiers and purchase status
+- App-specific customer or transaction identifiers
+- Device, app, and technical information needed to support purchase processing and security
+
+The App does not receive or store your full payment-card number or bank-account details. Payment processing is handled by Google Play and its payment providers.
+
+We do not require you to create an account with us to purchase Stars. RevenueCat may maintain purchase-related records to support transaction validation and purchase management.
+
+For more information, review [Google's Privacy Policy](https://policies.google.com/privacy) and [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy/).
 
 ## Third-Party Services
 
-The App uses the following third-party service:
+The App uses the following third-party services:
 
-* Google AdMob (Advertising)
+- **Google AdMob** — advertising
+- **Google User Messaging Platform (UMP)** — advertising consent management
+- **Google Play Billing** — in-app purchase processing
+- **RevenueCat** — purchase validation and subscription/purchase management technology
 
-These services may collect information according to their own privacy policies.
+These providers may process information according to their own privacy policies and service configurations. Their processing is subject to their respective terms and applicable privacy laws.
+
+## Data Retention and Deletion
+
+Crossword progress, Star balance, and app preferences are stored locally on your device. You can generally remove this local data by clearing the App's storage or uninstalling the App, although device and operating-system behavior may vary.
+
+Purchase-related records may be retained by Google Play or RevenueCat as needed for transaction processing, fraud prevention, accounting, legal compliance, and service operation.
+
+For questions or requests concerning personal data processed by the App or its service providers, contact us using the details below. We will respond in accordance with applicable law. Requests concerning data held directly by Google or RevenueCat may also need to be directed to those providers.
 
 ## Children's Privacy
 
-The App is not directed toward children under the age of 13. We do not knowingly collect personal information from children.
+The App is not specifically directed toward children under the age of 13. We do not knowingly collect personal information directly from children. However, third-party services may process device or advertising-related information as described in this policy. Where required, advertising consent and child-directed treatment must be configured in accordance with applicable laws and platform policies.
 
 ## Data Security
 
-Because user progress is stored locally on the device, no personal data is stored on our servers. We take reasonable measures to ensure the security of the application.
+We take reasonable measures to protect the App and the information it stores locally. Data transmitted by third-party services is subject to those providers' security practices, including encryption in transit where supported and applicable.
 
-## Your Rights
+No method of storage or transmission is completely secure.
 
-Depending on your country or region, you may have rights regarding your personal data, including the right to:
+## Your Privacy Rights and Choices
 
-* Request access to your data
-* Request deletion of your data
-* Withdraw advertising consent (where applicable)
+Depending on your country or region, you may have rights concerning personal data, including the right to request access, correction, or deletion, and to withdraw consent where processing is based on consent.
 
-Advertising consent can be changed through the app or your device settings.
+You can manage advertising consent through the App's available privacy settings, where provided. You can also contact us with privacy-related questions or requests.
 
 ## Changes to This Privacy Policy
 
@@ -66,8 +93,8 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 ## Contact
 
-If you have any questions about this Privacy Policy, you may contact:
+If you have questions about this Privacy Policy or a privacy-related request, contact:
 
 **Developer:** Aldi Sulova
 
-**Email:** [aldi.sulova@gmail.com](mailto:aldi.sulova@gmail.com)
+**Email:** [fjlaekryq.app@gmail.com](mailto\:aldi.sulova@gmail.com)
