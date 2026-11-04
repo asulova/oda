@@ -1,6 +1,5 @@
 {
-  "puzzles":
-    [ 
+    "puzzles": [
         {
             "puzzle_id": "general_0001",
             "category": "general",
@@ -8,146 +7,120 @@
             "order_index": 1,
             "words": [
                 {
-                    "x":0,
-                    "y":0,
-                    "word_number":1,
-                    "word":"LURA",
-                    "direction":"vertical",
+                    "x": 0,
+                    "y": 0,
+                    "word_number": 1,
+                    "word": "FRESK",
+                    "direction": "vertical",
                     "clues": [
-                        "Zonë malore e Dibrës, e njohur për liqenet akullnajore.", 
-                        "Park kombëtar në verilindje të Shqipërisë."
+                        "Ajër i këndshëm që sjell lehtësim pas vapës.",
+                        "Erë e lehtë që ndihet në mbrëmje."
                     ]
                 },
                 {
-                    "x":0,
-                    "y":0,
-                    "word_number":2,
-                    "word":"LIVADH",
-                    "direction":"horizontal",
+                    "x": 0,
+                    "y": 0,
+                    "word_number": 2,
+                    "word": "FIKU",
+                    "direction": "horizontal",
                     "clues": [
-                        "Hapësirë e gjelbër ku kullosin kopetë dhe lulëzojnë lulet e egra në pranverë.",
-                        "Plazh i madh dhe i bukur në Himarë, poshtë kalasë së saj.",
-                        "Fushë e gjelbër, e mbuluar me bar e lule."
+                        "Pemë frutore që prodhon kokrra me tul të ëmbël.",
+                        "Ra Faja nga ...",
+                        "Frut që mund të jetë i zi ose i bardhë."
                     ]
                 },
                 {
-                    "x":0,
-                    "y":3,
-                    "word_number":3,
-                    "word":"ARBËRESH",
-                    "direction":"horizontal",
+                    "x": 2,
+                    "y": 0,
+                    "word_number": 3,
+                    "word": "KAÇAK",
+                    "direction": "vertical",
+                    "clues": [
+                        "Kryengritës që jetonte i fshehur në male.",
+                        "Luftëtar i çetave që vepronte jashtë ligjit."
+                    ]
+                },
+                {
+                    "x": 6,
+                    "y": 0,
+                    "word_number": 4,
+                    "word": "HAN",
+                    "direction": "vertical",
+                    "clues": [
+                        "Bujtinë tradicionale ku udhëtarët gjenin strehim dhe ushqim.",
+                        "Vend ku hyn e del kushdo, pa kontroll '... me dy porta!'."
+                    ]
+                },
+                {
+                    "x": 10,
+                    "y": 0,
+                    "word_number": 5,
+                    "word": "PRUSH",
+                    "direction": "vertical",
+                    "clues": [
+                        "Thëngjij të ndezur pa flakë."
+                    ]
+                },
+                {
+                    "x": 4,
+                    "y": 1,
+                    "word_number": 6,
+                    "word": "GJI",
+                    "direction": "vertical",
+                    "clues": [
+                        "Pjesë e futur e detit në tokë.",
+                        "Vendi ku foshnja gjen ngrohtësi dhe ushqim."
+                    ]
+                },
+                {
+                    "x": 4,
+                    "y": 1,
+                    "word_number": 7,
+                    "word": "GJARPËR",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Zvarranik pa këmbë, shpesh helmues.",
+                        "Armik i pabesë që të godet kur nuk e pret."
+                    ]
+                },
+                {
+                    "x": 8,
+                    "y": 1,
+                    "word_number": 8,
+                    "word": "PËRBINDËSH",
+                    "direction": "vertical",
+                    "clues": [
+                        "Gjigant i egër që del nga bota e përrallave.",
+                        "Krijesë e errësirës që ngjall frikë te njerëzit."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 3,
+                    "word_number": 9,
+                    "word": "SHAMIA",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Copë pëlhure për të fshirë lotët."
+                    ]
+                },
+                {
+                    "x": 5,
+                    "y": 3,
+                    "word_number": 10,
+                    "word": "ARBËRESH",
+                    "direction": "vertical",
                     "clues": [
                         "Poeti i madh Jeronim De Rada ishte i tillë.",
                         "Shqiptarë që jetojnë në jug të Italisë që nga shekulli i 15-të."
                     ]
                 },
                 {
-                    "x":0,
-                    "y":5,
-                    "word_number":4,
-                    "word":"BAJRAKTAR",
-                    "direction":"horizontal",
-                    "clues": [
-                        "Mbajtësi i flamurit në luftë, në traditën shqiptare.", 
-                        "Në traditën e dasmave shqiptare, është krushku që mban flamurin ose shaminë e kuqe."
-                    ]
-                },
-                {
-                    "x":0,
-                    "y":7,
-                    "word_number":5,
-                    "word":"DALLËNDYSHE",
-                    "direction":"horizontal",
-                    "clues" :[
-                        "Zog shtegtar që i ndërton folët me baltë nën çatitë e shtëpive.",
-                        "Shpendi shtegtar që me ardhjen e tij lajmëron pranverën."
-                    ]
-                },
-                {
-                    "x":0,
-                    "y":9,
-                    "word_number":6,
-                    "word":"DEGË",
-                    "direction":"horizontal",
-                    "clues": [
-                        "Pjesë e pemës që del nga trungu dhe mban gjethet.",
-                        "Fushë e veçantë e shkencës ose drejtim studimi në shkollë e universitet."
-                    ]
-                },
-                {
-                    "x":1,
-                    "y":5,
-                    "word_number":7,
-                    "word":"AMANET",
-                    "direction":"vertical",
-                    "clues": [
-                        "Porosi e shenjtë ose dëshirë e fundit që i lihet dikujt në mirëbesim.",
-                        "Nuk e tret as dheu."
-                    ]
-                },
-                {
-                    "x":3,
-                    "y":2,
-                    "word_number":8,
-                    "word":"PËRRALLË",
-                    "direction":"vertical",
-                    "clues": [
-                        "Histori fantastike që përcillet brez pas brezi dhe zakonisht përmban elemente të mbinatyrshme.", 
-                        "Tregim popullor me ngjarje të trilluara, ku shpesh shfaqen mbretër, dragonj dhe magji.", 
-                        "Tregim i trilluar që nis shpesh me fjalët 'Na ishte njëherë ...'."
-                    ]
-                },
-                {
-                    "x":4,
-                    "y":10,
-                    "word_number":9,
-                    "word":"DËRRASË",
-                    "direction":"horizontal",
-                    "clues": [
-                        "Pllakë druri e hollë që përdoret për ndërtim ose mobilje.",
-                        "Sipas shprehjes popullore, njeriu që sillet në mënyrë të çuditshme ka një të tillë mangët.",
-                        "Sipërfaqe e zezë ku mësuesi shkruan me shkumës."
-                    ]
-                },
-                {
-                    "x":5,
-                    "y":0,
-                    "word_number":10,
-                    "word":"HARE",
-                    "direction":"vertical",
-                    "clues": [
-                        "Gjendje gëzimi të madh, që shprehet me gjallëri dhe gaz.",
-                        "Plot gaz e ...."
-                    ]
-                },
-                {
-                    "x":5,
-                    "y":1,
-                    "word_number":11,
-                    "word":"AFSH",
-                    "direction":"horizontal",
-                    "clues": [
-                        "Vrull i brendshëm shpirtëror që shpreh dëshirë të fortë apo pasion.",
-                        "Valë e ngrohtë ajri që ndihet pranë një zjarri të ndezur."
-                    ]
-                },
-                {
-                    "x":5,
-                    "y":5,
-                    "word_number":12,
-                    "word":"KËNETË",
-                    "direction":"vertical",
-                    "clues": [
-                        "Moçal me ujë të ndenjur dhe bimësi të dendur.",
-                        "Tokë e lagësht e mbuluar me ujë, kallama e barishte."
-                    ]
-                },
-                {
-                    "x":8,
-                    "y":4,
-                    "word_number":13,
-                    "word":"PRAS",
-                    "direction":"vertical",
+                    "x": 7,
+                    "y": 3,
+                    "word_number": 11,
+                    "word": "PRAS",
+                    "direction": "horizontal",
                     "clues": [
                         "Bimë perimore e ngjashme me qepën, me gjethe të gjata e kërcell të bardhë.",
                         "Variant dialektor i fjalës 'Presh'.",
@@ -155,15 +128,103 @@
                     ]
                 },
                 {
-                    "x":10,
-                    "y":1,
-                    "word_number":14,
-                    "word":"FUSTANELLË",
-                    "direction":"vertical",
+                    "x": 1,
+                    "y": 5,
+                    "word_number": 12,
+                    "word": "LURA",
+                    "direction": "vertical",
                     "clues": [
-                        "Veshje tradicionale shqiptare, e bardhë dhe me pala, që vishet kryesisht nga burrat.", 
-                        "Pjesë e kostumit popullor shqiptar, e ngjashme me një fund të gjerë me shumë pala.", 
-                        "Veshje tradicionale që mbahej nga luftëtarët shqiptarë dhe simbolizon kulturën kombëtare."
+                        "Zonë malore e Dibrës, e njohur për liqenet akullnajore.",
+                        "Park kombëtar në verilindje të Shqipërisë."
+                    ]
+                },
+                {
+                    "x": 3,
+                    "y": 5,
+                    "word_number": 13,
+                    "word": "ROZAFA",
+                    "direction": "vertical",
+                    "clues": [
+                        "Legjenda shqiptare e gruas që u muros në kalanë e Shkodrës.",
+                        "Emri i kalasë që lidhet me flijimin e një nëne."
+                    ]
+                },
+                {
+                    "x": 5,
+                    "y": 5,
+                    "word_number": 14,
+                    "word": "BURIM",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Gurrë nga ku uji del në sipërfaqe të tokës.",
+                        "Zanafilla prej nga lind diçka."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 6,
+                    "word_number": 15,
+                    "word": "KURORË",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Rreth i thurur me lule ose gjethe, që vendoset mbi kokë për zbukurim.",
+                        "Simbol i lidhjes martesore dhe besnikërisë bashkëshortore."
+                    ]
+                },
+                {
+                    "x": 10,
+                    "y": 6,
+                    "word_number": 16,
+                    "word": "DEGË",
+                    "direction": "vertical",
+                    "clues": [
+                        "Pjesë e pemës që del nga trungu dhe mban gjethet.",
+                        "Fushë e veçantë e shkencës ose drejtim studimi në shkollë e universitet."
+                    ]
+                },
+                {
+                    "x": 5,
+                    "y": 7,
+                    "word_number": 17,
+                    "word": "RRODHE",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Bimë e egër me kokrra gjembaçë që ngjiten pas rrobave.",
+                        "u qep e nuk iu nda, iu bë ..."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 8,
+                    "word_number": 18,
+                    "word": "KADARE",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Emri i madh i letërsisë shqiptare, autor i 'Gjenerali i ushtrisë së vdekur'.",
+                        "Nominuar disa herë për çmimin Nobel në letërsi"
+                    ]
+                },
+                {
+                    "x": 5,
+                    "y": 9,
+                    "word_number": 19,
+                    "word": "SHOSHË",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Mjet tradicional për pastrimin e grurit dhe misrit.",
+                        "Nuk mbulohet dielli me ..."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 10,
+                    "word_number": 20,
+                    "word": "LIVADH",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Hapësirë e gjelbër ku kullosin kopetë dhe lulëzojnë lulet e egra në pranverë.",
+                        "Plazh i madh dhe i bukur në Himarë, poshtë kalasë së saj.",
+                        "Fushë e gjelbër, e mbuluar me bar e lule."
                     ]
                 }
             ]
@@ -171,161 +232,172 @@
         {
             "puzzle_id": "proverb_0001",
             "category": "proverb",
-            "title": "Gjurmë Urtësie",
-            "order_index": 2,
-            "words": 
-            [
+            "title": "Gjurmė Urtësie",
+            "order_index": 1,
+            "words": [
                 {
-                    "x":0,
-                    "y":2,
-                    "word_number":1,
-                    "word":"SHELEGU",
-                    "direction":"horizontal",
+                    "x": 0,
+                    "y": 0,
+                    "word_number": 1,
+                    "word": "KRIPË",
+                    "direction": "vertical",
                     "clues": [
-                        "Avash avash bëhet ... dash."
+                        "Ç'bën në det, e gjen në ..."
                     ]
                 },
                 {
-                    "x":0,
-                    "y":7,
-                    "word_number":2,
-                    "word":"LUMË",
-                    "direction":"vertical",
+                    "x": 0,
+                    "y": 0,
+                    "word_number": 2,
+                    "word": "KULLOT",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Në fushë pa zot gjithë bota ....",
+                        "Delja ku ..., atje lë leshin."
+                    ]
+                },
+                {
+                    "x": 2,
+                    "y": 0,
+                    "word_number": 3,
+                    "word": "LUMË",
+                    "direction": "vertical",
                     "clues": [
                         "Fjala pa punë, si peshku pa ..."
                     ]
                 },
                 {
-                    "x":0,
-                    "y":9,
-                    "word_number":3,
-                    "word":"MJALTË",
-                    "direction":"horizontal",
+                    "x": 7,
+                    "y": 0,
+                    "word_number": 4,
+                    "word": "SHQIPONJA",
+                    "direction": "vertical",
                     "clues": [
-                        "Dora me baltë, buka me ...",
-                        "Të bënin mizat ..., do t'i kishim qypat plot."
+                        "Duaje atdhenë si ... folenë.",
+                        "S'ka qeder ..., nga mushkonjat."
                     ]
                 },
                 {
-                    "x":1,
-                    "y":1,
-                    "word_number":4,
-                    "word":"SHPINA",
-                    "direction":"vertical", 
+                    "x": 10,
+                    "y": 0,
+                    "word_number": 5,
+                    "word": "PËRRALLA",
+                    "direction": "vertical",
                     "clues": [
-                        "Gjuha flet e fshihet, ... pret e rrihet."
+                        "Nuk tunden malet me ..."
                     ]
                 },
                 {
-                    "x":1,
-                    "y":11,
-                    "word_number":5,
-                    "word":"BARI",
-                    "direction":"horizontal",
+                    "x": 9,
+                    "y": 1,
+                    "word_number": 6,
+                    "word": "ZË",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Macja që \u001dfle nuk ... dot minj."
+                    ]
+                },
+                {
+                    "x": 2,
+                    "y": 2,
+                    "word_number": 7,
+                    "word": "MUSTAQE",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Nuk lind burri me ..."
+                    ]
+                },
+                {
+                    "x": 4,
+                    "y": 2,
+                    "word_number": 8,
+                    "word": "SHELEGU",
+                    "direction": "vertical",
+                    "clues": [
+                        "Avash avash bëhet ... dash."
+                    ]
+                },
+                {
+                    "x": 6,
+                    "y": 5,
+                    "word_number": 9,
+                    "word": "SOKOL",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Më mirë ... një herë, se sorrë gjithherë."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 6,
+                    "word_number": 10,
+                    "word": "BULMET",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Ai stan atë ... ka."
+                    ]
+                },
+                {
+                    "x": 1,
+                    "y": 6,
+                    "word_number": 11,
+                    "word": "URATA",
+                    "direction": "vertical",
+                    "clues": [
+                        "S`bëhet vreshti me ... , po me shata e me lopata.",
+                        "Liria nuk mbrohet me fjalë e me ... , por me harqe e me shpata."
+                    ]
+                },
+                {
+                    "x": 6,
+                    "y": 7,
+                    "word_number": 12,
+                    "word": "FJALA",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Doli ... nga dhëmballa, e merr vesh e gjithë mëhalla.",
+                        "... e burrit, pesha e gurit."
+                    ]
+                },
+                {
+                    "x": 9,
+                    "y": 7,
+                    "word_number": 13,
+                    "word": "LISI",
+                    "direction": "vertical",
+                    "clues": [
+                        "Sa më i gjatë është ... , aq më shumë e zë era."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 8,
+                    "word_number": 14,
+                    "word": "PATKUA",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Më bli një kalë e nj shalë, o baba, se kam gjet një ...."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 10,
+                    "word_number": 15,
+                    "word": "BARI",
+                    "direction": "horizontal",
                     "clues": [
                         "Dhentë pa ... i ha ujku nji nga nji.",
                         "Gjej njëherë ..., pastaj shko e bli dhi!"
                     ]
                 },
                 {
-                    "x":2,
-                    "y":7,
-                    "word_number":6,
-                    "word":"FJALA",
-                    "direction":"vertical",
+                    "x": 5,
+                    "y": 10,
+                    "word_number": 16,
+                    "word": "VRAPIN",
+                    "direction": "horizontal",
                     "clues": [
-                        "Doli ... nga dhëmballa, e mori vesh gjithë mëhalla.",
-                        "... e burrit, pesha e gurit."
-                    ]
-                },
-                {
-                    "x":3,
-                    "y":0,
-                    "word_number":7,
-                    "word":"KULLOT",
-                    "direction":"vertical",
-                    "clues": [
-                        "Në fushë pa zot, gjithë bota ..."
-                    ]
-                },
-                {
-                    "x":3,
-                    "y":0,
-                    "word_number":8,
-                    "word":"KURRIZ",
-                    "direction":"horizontal",
-                    "clues": [
-                        "Hunda në lis, morri në ...."
-                    ]
-                },
-                {
-                    "x":4,
-                    "y":7,
-                    "word_number":9,
-                    "word":"PËRRALLA",
-                    "direction":"horizontal",
-                    "clues": [
-                        "Nuk tunden malet me ..."
-                    ]
-                },
-                {
-                    "x":5,
-                    "y":2,
-                    "word_number":10,
-                    "word":"GËRSHËRË",
-                    "direction":"vertical",
-                    "clues": [
-                        "S'korret livadhi me ..."
-                    ]
-                },
-                {
-                    "x":5,
-                    "y":4,
-                    "word_number":11,
-                    "word":"REHATIN",
-                    "direction":"horizontal",
-                    "clues": [
-                        "Hiq inatin gjej ..."
-                    ]
-                },
-                {
-                    "x":6,
-                    "y":11,
-                    "word_number":12,
-                    "word":"TAGJIA",
-                    "direction":"horizontal",
-                    "clues": [
-                        "Ku di dhia ç'është ..."
-                    ]
-                },
-                {
-                    "x":8,
-                    "y":2,
-                    "word_number":13,
-                    "word":"DHASKALI",
-                    "direction":"vertical",
-                    "clues": [
-                        "Kur s'ka mend djali, s'ka ç'i bën ..."
-                    ]
-                },
-                {
-                    "x":10,
-                    "y":0,
-                    "word_number":14,
-                    "word":"RREZIK",
-                    "direction":"vertical",
-                    "clues": [
-                        "Ari në zjarr provohet, miku në ... kuptohet."
-                    ]
-                },
-                {
-                    "x":11,
-                    "y":6,
-                    "word_number":15,
-                    "word":"PATKUA",
-                    "direction":"vertical",
-                    "clues": [
-                        "Më bli një kalë e nj shalë, o baba, se kam gjet një ...."
+                        "Bëje ... sa ke hapin!"
                     ]
                 }
             ]
@@ -333,292 +405,301 @@
         {
             "puzzle_id": "themed_0001",
             "category": "themed",
-            "title": "Fjalë nga Elbasani",
-            "order_index": 3,
-            "words": 
-            [
+            "title": "Elbasani",
+            "order_index": 1,
+            "words": [
                 {
-                    "x":0,
-                    "y":2,
-                    "word_number":1,
-                    "word":"KREKO",
-                    "direction":"vertical",
+                    "x": 0,
+                    "y": 0,
+                    "word_number": 1,
+                    "word": "MYZYRI",
+                    "direction": "vertical",
                     "clues": [
-                            "I veshur bukur dhe me rroba të hekurosura, i pastër dhe elegant.",
-                            "Me trupin drejt, pa u përkulur; shtatlartë e hijerëndë në qëndrim."
-                        ]
+                        "Usta elbasanas që i dha zë këngës popullore qytetare.",
+                        "Mjeshtri elbasanas që i binte violinës dhe i këndoi dashurisë."
+                    ]
                 },
                 {
-                    "x":0,
-                    "y":2,
-                    "word_number":2,
-                    "word":"KARABOBE",
-                    "direction":"horizontal",
+                    "x": 3,
+                    "y": 0,
+                    "word_number": 2,
+                    "word": "ZARANIKA",
+                    "direction": "horizontal",
                     "clues": [
-                            "Kokërr e zezë dhe e ëmbël e një peme të egër.",
-                            "I thonë ndryshe edhe carac."
-                        ]
+                        "Përroi që kalon në anën perëndimore të Elbasanit."
+                    ]
                 },
                 {
-                    "x":0,
-                    "y":5,
-                    "word_number":3,
-                    "word":"KËRPICË",
-                    "direction":"horizontal",
+                    "x": 9,
+                    "y": 0,
+                    "word_number": 3,
+                    "word": "KËRPICË",
+                    "direction": "vertical",
                     "clues": [
-                            "Plot e përplot, mbushur deri në fund.",
-                            "Në dhomë me shumë njerëz, ishte ..."
-                        ]
+                        "Plot e përplot, mbushur deri në fund.",
+                        "Në dhomë me shumë njerëz, ishte ..."
+                    ]
                 },
                 {
-                    "x":1,
-                    "y":8,
-                    "word_number":4,
-                    "word":"KARAKAFTJA",
-                    "direction":"horizontal",
+                    "x": 2,
+                    "y": 1,
+                    "word_number": 4,
+                    "word": "KARAKAFTJA",
+                    "direction": "vertical",
                     "clues": [
-                            "Lulja lajmëtare e pranverës, simbol i festimeve tradicionale të Ditës së Verës",
-                            "Lule e egër pranverore, me petale të murrme në të kuqërremtë."
-                        ]
+                        "Lulja lajmëtare e pranverës, simbol i festimeve tradicionale të Ditës së Verës.",
+                        "Lule e egër pranverore, me petale të murrme në të kuqërremtë."
+                    ]
                 },
                 {
-                    "x":2,
-                    "y":0,
-                    "word_number":5,
-                    "word":"QUR",
-                    "direction":"vertical",
+                    "x": 4,
+                    "y": 2,
+                    "word_number": 5,
+                    "word": "SHALËS",
+                    "direction": "vertical",
                     "clues": [
-                            "Hapësire nën dyshemenë e shtëpisë së vjetër, që shërbente si depo.",
-                            "Magazinë në katin përdhes/bodrum të shtëpisë."
-                        ]
+                        "Për një fërgesë në ...",
+                        "Fshat pranë Elbasanit, i njohur për historinë dhe traditat e zonës."
+                    ]
                 },
                 {
-                    "x":2,
-                    "y":4,
-                    "word_number":6,
-                    "word":"RRAMADUC",
-                    "direction":"vertical",
+                    "x": 4,
+                    "y": 2,
+                    "word_number": 6,
+                    "word": "SHËNDRE",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Emërtim i vjetër popullor për muajin e dhjetorit.",
+                        "Muaji i dimrit në shprehjen popullore: Kërkon dardha në ..."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 4,
+                    "word_number": 7,
+                    "word": "RRAMADUC",
+                    "direction": "horizontal",
                     "clues": [
                         "Që është i shkurtër, i rrumbullakët dhe i ngjeshur nga trupi.",
                         "Topolak."
                     ]
                 },
                 {
-                    "x":2,
-                    "y":11,
-                    "word_number":7,
-                    "word":"CYT",
-                    "direction":"horizontal",
+                    "x": 6,
+                    "y": 6,
+                    "word_number": 8,
+                    "word": "KREKO",
+                    "direction": "vertical",
                     "clues": [
-                            "Ngacmoj me dorë, nuk e lë të qetë.",
-                            "Nxit dikë për të bërë diçka."
-                        ]
-                },
-                {
-                    "x":4,
-                    "y":0,
-                    "word_number":8,
-                    "word":"LEQENIS",
-                    "direction":"horizontal",
-                    "clues": [
-                            "Jam këputur e kam humbur fuqitë nga lodhja ose sëmundja.",
-                            "Jam ligështuar nga një sëmundje ose pikëllim i madh."
-                        ]
-                },
-                {
-                    "x":4,
-                    "y":2,
-                    "word_number":9,
-                    "word":"BEZISTANIT",
-                    "direction":"vertical",
-                    "clues": [
-                            "Emërtimi i rrapit dhe i bazilikës paleokristiane pranë kalasë së Elbasanit.",
-                            "Rrapi i famshëm shumëshekullor në qendër të qytetit të Elbasanit."
-                        ]
-                },
-                {
-                    "x":6,
-                    "y":7,
-                    "word_number":10,
-                    "word":"VALMI",
-                    "direction":"vertical",
-                    "clues": [
-                            "Emër i vjetër historik me të cilin populli quante Elbasanin përpara pushtimit Osman."
-                        ]
-                },
-                {
-                    "x":6,
-                    "y":10,
-                    "word_number":11,
-                    "word":"MËLYSH",
-                    "direction":"horizontal",
-                    "clues": [
-                        "Peshk që gjendet në ujërat e lumit Shkumbin, me trup të gjatë e turi petashuq."
+                        "I veshur bukur dhe me rroba të hekurosura, i pastër dhe elegant.",
+                        "Me trupin drejt, pa u përkulur; shtatlartë e hijerëndë në qëndrim."
                     ]
                 },
                 {
-                    "x":7,
-                    "y":6,
-                    "word_number":12,
-                    "word":"BELEG",
-                    "direction":"horizontal",
+                    "x": 10,
+                    "y": 7,
+                    "word_number": 9,
+                    "word": "IME",
+                    "direction": "vertical",
                     "clues": [
-                            "Njeri budalla e mendjelehtë, në gjuhën popullore."
-                        ]
+                        "Tani."
+                    ]
                 },
                 {
-                    "x":8,
-                    "y":5,
-                    "word_number":13,
-                    "word":"PESTIL",
-                    "direction":"vertical",
+                    "x": 0,
+                    "y": 8,
+                    "word_number": 10,
+                    "word": "CYT",
+                    "direction": "horizontal",
                     "clues": [
-                            "E rraskapiti fare, e la pa fuqi, e bëri ...",
-                            "Lëng kumbullash të ziera e të thara si petë, që përdoret në gjellë."
-                        ]
+                        "Ngacmoj me dorë, nuk e lë të qetë.",
+                        "Nxit dikë për të bërë diçka."
+                    ]
                 },
                 {
-                    "x":10,
-                    "y":0,
-                    "word_number":14,
-                    "word":"SHËNDRE",
-                    "direction":"vertical",
+                    "x": 5,
+                    "y": 8,
+                    "word_number": 11,
+                    "word": "BELQIM",
+                    "direction": "horizontal",
                     "clues": [
-                            "Emërtim i vjetër popullor për muajin e dhjetorit.",
-                            "Muaji i dimrit në shprehjen popullore: Kërkon dardha në ..."
-                        ]
+                        "Sinonim i vjetër i fjalës ndoshta.",
+                        "Ndoshta vjen, ndoshta s'vjen."
+                    ]
+                },
+                {
+                    "x": 8,
+                    "y": 8,
+                    "word_number": 12,
+                    "word": "QUR",
+                    "direction": "vertical",
+                    "clues": [
+                        "Hapësire nën dyshemenë e shtëpisë së vjetër, që shërbente si depo.",
+                        "Magazinë në katin përdhes/bodrum të shtëpisë."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 10,
+                    "word_number": 13,
+                    "word": "SPAHIKORRE",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Lagje në pjesën veriore të qytetit të Elbasanit, sipër qendrës dhe Kalasë."
+                    ]
                 }
             ]
         },
         {
-            "puzzle_id": "histor_0001",
+            "puzzle_id": "history_0001",
             "category": "history",
             "title": "Nën Hijen e Diktaturës",
-            "order_index": 4,
-            "words": 
-            [
+            "order_index": 1,
+            "words": [
                 {
-                    "x":0,
-                    "y":1,
-                    "word_number":1,
-                    "word":"KULAK",
-                    "direction":"horizontal",
-                    "clues": [
-                        "Shtresë e fshatarësisë së pasur që luftohej dhe persekutohej nga regjimi komunist.",
-                        "Fshatar i pasur, i shpallur armik i klasës gjatë diktaturës."
-                    ]
-                },
-                {
-                    "x":0,
-                    "y":3,
-                    "word_number":2,
-                    "word":"BRIGADË",
-                    "direction":"vertical",
-                    "clues": [
-                        "Grup i madh punëtorësh ose kooperativistik i organizuar për të realizuar planet e partisë.",
-                        "Grup i organizuar i rinisë që ndërtonte hekurudha apo rrugë me punë vullnetare."
-                    ]
-                },
-                {
-                    "x":0,
-                    "y":4,
-                    "word_number":3,
-                    "word":"REVIZIONIST",
-                    "direction":"horizontal",
-                    "clues": [
-                        "Ithtar i rishikimit të bazave dhe parimeve themelore të marksizmit.",
-                        "Etiketim politik i kohës së diktaturës për ata që largoheshin nga vija e partisë."
-                    ]
-                },
-                {
-                    "x":0,
-                    "y":8,
-                    "word_number":4,
-                    "word":"DISIDENT",
-                    "direction":"horizontal",
-                    "clues": [
-                        "Ai që guxonte të shkëputej nga dogma zyrtare komuniste dhe të ngrinte zërin kundër saj.",
-                        "Ai që mbante qëndrime kundër vijës së partisë-shtet."
-                    ]
-                },
-                {
-                    "x":1,
-                    "y":10,
-                    "word_number":5,
-                    "word":"DINAMO",
-                    "direction":"horizontal",
-                    "clues": [
-                        "Klub sportiv i krijuar në vitin 1950 nën varësinë e Ministrisë së Brendshme.",
-                        "Simboli që përfaqësonte 'forcën në lëvizje' dhe energjinë e klasës punëtore në komunizëm."
-                    ]
-                },
-                {
-                    "x":3,
-                    "y":1,
-                    "word_number":6,
-                    "word":"AGJITACION",
-                    "direction":"vertical",
-                    "clues": [
-                        "Akuzë e rëndë politike në diktaturë që dënonte bisedat kundër regjimit, e shoqëruar gjithmonë me propagandën.",
-                        "Veprimtari e cilësuar si 'armiqësore' nga regjimi monist, e cila të çonte në burgje apo internime."
-                    ]
-                },
-                {
-                    "x":5,
-                    "y":6,
-                    "word_number":7,
-                    "word":"ZBOR",
-                    "direction":"horizontal",
+                    "x": 2,
+                    "y": 0,
+                    "word_number": 1,
+                    "word": "ZBOR",
+                    "direction": "vertical",
                     "clues": [
                         "Stërvitje ushtarake e detyrueshme që kryenin civilët në kohën e diktaturës.",
                         "Thirrja e punëtorëve dhe studentëve në reparte për stërvitje me armë."
                     ]
                 },
                 {
-                    "x":6,
-                    "y":1,
-                    "word_number":8,
-                    "word":"BYRO",
-                    "direction":"vertical",
+                    "x": 5,
+                    "y": 0,
+                    "word_number": 2,
+                    "word": "TRISKË",
+                    "direction": "horizontal",
                     "clues": [
-                        "Organi i lartë ekzekutiv dhe udhëheqës i Partisë Komuniste.",
-                        "Grupi i ngushtë i udhëheqësve komunistë që kontrollonin pushtetin në Shqipëri."
+                        "Dokument me të cilin merrej buka me racion gjatë komunizmit.",
+                        "Mjet i sistemit të furnizimit me normë gjatë diktaturës."
                     ]
                 },
                 {
-                    "x":7,
-                    "y":0,
-                    "word_number":9,
-                    "word":"SPAÇ",
-                    "direction":"horizontal",
+                    "x": 6,
+                    "y": 0,
+                    "word_number": 3,
+                    "word": "REVIZIONIST",
+                    "direction": "vertical",
+                    "clues": [
+                        "Ithtar i rishikimit të bazave dhe parimeve themelore të marksizmit.",
+                        "Etiketim politik i kohës së diktaturës për ata që largoheshin nga vija e partisë."
+                    ]
+                },
+                {
+                    "x": 4,
+                    "y": 1,
+                    "word_number": 4,
+                    "word": "SPAÇ",
+                    "direction": "vertical",
                     "clues": [
                         "Burg politik dhe kamp famëkeq i punës së detyruar në minierat e Mirditës.",
                         "Vendi i revoltës së madhe antikomuniste të të burgosurve politikë në vitin 1973."
                     ]
                 },
                 {
-                    "x":8,
-                    "y":0,
-                    "word_number":10,
-                    "word":"PIONIER",
-                    "direction":"vertical",
+                    "x": 10,
+                    "y": 2,
+                    "word_number": 5,
+                    "word": "INTERNIM",
+                    "direction": "vertical",
+                    "clues": [
+                        "Dënim politik në Shqipërinë komuniste që detyronte jetesën në kampe pune apo fshatra të largëta.",
+                        "Izolim i detyruar dhe i mbikëqyrur nga shteti për njerëzit me biografi të keqe."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 3,
+                    "word_number": 6,
+                    "word": "MERDANI",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Këngëtar shqiptar që vuajti 16 vite burg pas Festivalit të 11-të.",
+                        "Sherif që sfidoi diktaturën me këngë."
+                    ]
+                },
+                {
+                    "x": 8,
+                    "y": 3,
+                    "word_number": 7,
+                    "word": "DISIDENT",
+                    "direction": "vertical",
+                    "clues": [
+                        "Ai që guxonte të shkëputej nga dogma zyrtare komuniste dhe të ngrinte zërin kundër saj.",
+                        "Ai që mbante qëndrime kundër vijës së partisë-shtet."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 5,
+                    "word_number": 8,
+                    "word": "BUNKER",
+                    "direction": "vertical",
+                    "clues": [
+                        "Simbol betoni i marrëzisë së diktaturës.",
+                        "Gjurmë betoni që dëshmon paranojën e regjimit komunist."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 5,
+                    "word_number": 9,
+                    "word": "BYRO",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Organi i lartë ekzekutiv dhe udhëheqës i Partisë Komuniste.",
+                        "Grupi i ngushtë i udhëheqësve komunistë që kontrollonin pushtetin në Shqipëri."
+                    ]
+                },
+                {
+                    "x": 4,
+                    "y": 6,
+                    "word_number": 10,
+                    "word": "PIONIER",
+                    "direction": "horizontal",
                     "clues": [
                         "Anëtar i organizatës komuniste të fëmijëve, që mbante një shami të kuqe në qafë.",
                         "Fëmijë anëtar i organizatës shtetërore në Shqipërinë komuniste."
                     ]
                 },
                 {
-                    "x":10,
-                    "y":2,
-                    "word_number":11,
-                    "word":"INTERNIM",
-                    "direction":"vertical",
+                    "x": 3,
+                    "y": 7,
+                    "word_number": 11,
+                    "word": "KAPO",
+                    "direction": "vertical",
                     "clues": [
-                        "Dënim politik në Shqipërinë komuniste që detyronte jetesën në kampe pune apo fshatra të largëta.",
-                        "Izolim i detyruar dhe i mbikëqyrur nga shteti për njerëzit me biografi të keqe."
+                        "Një nga njerëzit më të besuar të Enver Hoxhës.",
+                        "I vetmi bashkëpunëtor i afërt i Enver Hoxhës që nuk u dënua."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 8,
+                    "word_number": 12,
+                    "word": "KULAK",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Shtresë e fshatarësisë së pasur që luftohej dhe persekutohej nga regjimi komunist.",
+                        "Fshatar i pasur, i shpallur armik i klasës gjatë diktaturës."
+                    ]
+                },
+                {
+                    "x": 2,
+                    "y": 10,
+                    "word_number": 13,
+                    "word": "KOMITET",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Organ drejtues i Partisë së Punës gjatë komunizmit.",
+                        "Strukturë partie që mbikëqyrte jetën politike në çdo rreth."
                     ]
                 }
             ]
-        }   
+        }
     ]
 }
