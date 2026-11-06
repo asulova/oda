@@ -700,6 +700,255 @@
                     ]
                 }
             ]
+        },
+        {
+            "puzzle_id": "general_0005",
+            "category": "general",
+            "order_index": 5,
+            "words": [
+                {
+                    "x": 1,
+                    "y": 0,
+                    "word_number": 1,
+                    "word": "FISHTA",
+                    "direction": "vertical",
+                    "clues": [
+                        "Shkrimtar, poet dhe klerik françeskan shqiptar, autor i vëllimit poetik Mrizi i Zanave.",
+                        "Fshat historik në Zadrimë të Lezhës."
+                    ]
+                },
+                {
+                    "x": 3,
+                    "y": 0,
+                    "word_number": 2,
+                    "word": "ÇIKË",
+                    "direction": "vertical",
+                    "clues": [
+                        "Vajzë e re; çupë.",
+                        "Grimë ose pjesë fare e vogël e diçkaje."
+                    ]
+                },
+                {
+                    "x": 6,
+                    "y": 0,
+                    "word_number": 3,
+                    "word": "URATË",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Fjalë a shprehje që i thotë prindi fëmijës për t'i shkuar mbarë çdo gjë kur ndahet ose largohet, bekim.",
+                        "Lutje e shenjtë që prifti shqipton për paqe, mirësi dhe bekim mbi besimtarët."
+                    ]
+                },
+                {
+                    "x": 7,
+                    "y": 0,
+                    "word_number": 4,
+                    "word": "RRAFSH",
+                    "direction": "vertical",
+                    "clues": [
+                        "Sipërfaqe e lëmuar, pa ngritje e thellime.",
+                        "Plot e përplot, deri në buzë të gotës. E mbushi ...!"
+                    ]
+                },
+                {
+                    "x": 9,
+                    "y": 0,
+                    "word_number": 5,
+                    "word": "TYM",
+                    "direction": "vertical",
+                    "clues": [
+                        "Gaz i zi ose i hirtë që del kur digjen drutë apo letrat.",
+                        "Shprehja për të përshkruar një veprim pa plan: 'Punon në ...!'.",
+                        "Nuk ka ... pa zjarr!"
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 1,
+                    "word_number": 6,
+                    "word": "LISI",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Dru i lartë pylli me gjethe me dhëmbëza, ndryshe i quajtur dhe dushk.",
+                        "Sa më i gjatë është ..., aq më shumë e zë era."
+                    ]
+                },
+                {
+                    "x": 5,
+                    "y": 1,
+                    "word_number": 7,
+                    "word": "ÇOBAN",
+                    "direction": "vertical",
+                    "clues": [
+                        "Ai që ruani, kullot dhe mbarështon dhentë ose dhinë; bariu."
+                    ]
+                },
+                {
+                    "x": 5,
+                    "y": 2,
+                    "word_number": 8,
+                    "word": "ODA",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Dhomë shtëpie, zakonisht ajo ku priten miqtë."
+                    ]
+                },
+                {
+                    "x": 9,
+                    "y": 2,
+                    "word_number": 9,
+                    "word": "MI",
+                    "direction": "horizontal",
+                    "clues": [
+                        "U mbars mali e polli një ...(fjalë e urtë për bujë të madhe dhe rezultat të vogël).",
+                        "Gjitar i vogël brejtës që ushqehet me drithëra dhe ndiqet nga macet."
+                    ]
+                },
+                {
+                    "x": 10,
+                    "y": 2,
+                    "word_number": 10,
+                    "word": "ISO",
+                    "direction": "vertical",
+                    "clues": [
+                        "Zë i njëtrajtshëm e i zgjatur që mbështet polifoninë.",
+                        "Mbështetje e verbër ose përkrahje në çdo gjë, 'i mban...'."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 3,
+                    "word_number": 11,
+                    "word": "SHKËMB",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Gur shumë i madh e i fortë me faqe të rrëpirëta, që gjendet në male.",
+                        "Njeri shumë i fortë që s'tundet nga e tija, ose që e ka kokën shumë të fortë, 'kokë ...'."
+                    ]
+                },
+                {
+                    "x": 5,
+                    "y": 4,
+                    "word_number": 12,
+                    "word": "AFSH",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Vrull i brendshëm shpirtëror që shpreh dëshirë të fortë apo pasion.",
+                        "Valë e ngrohtë ajri që ndihet pranë një zjarri të ndezur."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 5,
+                    "word_number": 13,
+                    "word": "KORABI",
+                    "direction": "vertical",
+                    "clues": [
+                        "Mali dhe maja më e lartë në Shqipëri.",
+                        "Mali i përmendur shpesh në këngët e folklorit dibran për lartësinë e tij."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 5,
+                    "word_number": 14,
+                    "word": "KARVAN",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Mënyra se si radhiten njerëzit ose sendet njëri pas tjetrit në varg.",
+                        "Ecën përpara edhe kur lehin qentë, sipas thënies popullore."
+                    ]
+                },
+                {
+                    "x": 2,
+                    "y": 5,
+                    "word_number": 15,
+                    "word": "RRËNJË",
+                    "direction": "vertical",
+                    "clues": [
+                        "Pjesa nën dhe e bimës që thith ujin dhe ushqimin.",
+                        "Fjalë që përdoret për të numëruar pemët ose drurët, p.sh. dyzet... mollë."
+                    ]
+                },
+                {
+                    "x": 6,
+                    "y": 6,
+                    "word_number": 16,
+                    "word": "VATËR",
+                    "direction": "vertical",
+                    "clues": [
+                        "Vendi i thelluar rrëzë oxhakut ku ndizet zjarri.",
+                        "Simboli i ekzistencës së familjes e ku ndizet zjarri i shtëpisë, ... familjare!"
+                    ]
+                },
+                {
+                    "x": 8,
+                    "y": 6,
+                    "word_number": 17,
+                    "word": "KAUSH",
+                    "direction": "vertical",
+                    "clues": [
+                        "Qese letre e mbështjellë si hinkë për kokoshka a kikirikë.",
+                        "Mbajtëse prej biskote në formë hinke, që përdoret për të mbajtur akullore."
+                    ]
+                },
+                {
+                    "x": 8,
+                    "y": 6,
+                    "word_number": 18,
+                    "word": "KOS",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Qumësht i mpiksur me tharm, që zakonisht vjen pak si i thartë.",
+                        "'U bë deti ...', kur ka diçka me shumicë."
+                    ]
+                },
+                {
+                    "x": 10,
+                    "y": 6,
+                    "word_number": 19,
+                    "word": "SHALË",
+                    "direction": "vertical",
+                    "clues": [
+                        "Pjesa e këmbës nga gjuri e sipër, kofshë.",
+                        "Ndenjësja e posaçme e biçikletës ose e motoçikletës.",
+                        "Mbulesë prej lëkure që i vihet kalit në shpinë për t'u ulur."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 7,
+                    "word_number": 20,
+                    "word": "RRËKE",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Përrua i vogël me ujë të paktë që ecën me rrëmbim pas shiut.",
+                        "Lot që rrjedhin me vrull, i shkuan lotët ...!"
+                    ]
+                },
+                {
+                    "x": 6,
+                    "y": 8,
+                    "word_number": 21,
+                    "word": "TEUTA",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Mbretëreshë ilire e shekullit III p.e.s.",
+                        "Bashkëshortja e mbretit Agron."
+                    ]
+                },
+                {
+                    "x": 0,
+                    "y": 9,
+                    "word_number": 22,
+                    "word": "BUJTINË",
+                    "direction": "horizontal",
+                    "clues": [
+                        "Hotel i vogël zakonisht në zonat malore a rurale.",
+                        "Shtëpi ku buajnë (akomodohen) udhëtarët."
+                    ]
+                }
+            ]
         }
     ]
 }
